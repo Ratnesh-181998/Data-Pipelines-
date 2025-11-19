@@ -1,4 +1,4 @@
-data pipeline on Government e-Marketplace (GeM) 2.0, covering data extraction from PostgreSQL to S3, transformation on EMR with PySpark, loading into Redshift, exporting for PowerBI, and scheduling with Airflow:​
+Data pipeline on Government e-Marketplace (GeM) 2.0, covering data extraction from PostgreSQL to S3, transformation on EMR with PySpark, loading into Redshift, exporting for PowerBI, and scheduling with Airflow:​
 
 Architecture Overview
 1. Data Extraction (EC2 to S3)
